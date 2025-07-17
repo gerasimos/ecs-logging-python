@@ -136,3 +136,5 @@ junit-test.xml
 
 # Doc build
 html_docs
+
+.idea
