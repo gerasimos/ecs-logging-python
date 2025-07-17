@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.2.1 (2025-07-17) Gerasimos
+
+- Disable `ensure_ascii` in `json.dumps`
+
 ## 2.2.0 (2024-06-28)
 
 - Rewrite type annotations ([#119](https://github.com/elastic/ecs-logging-python/pull/119))
